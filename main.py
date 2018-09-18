@@ -181,4 +181,4 @@ class Game:
         else:
             self.root.destroy()
 
-game = Game()
+#game = Game()
